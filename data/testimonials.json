@@ -1,0 +1,33 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Bintang Mochamad",
+      "firstName": "rosele",
+      "position": "Pengusaha Distro",
+      "info": "“Menurut saya dengan adanya jasa antar lokal ini,memudahkan saya untuk mengantarkan barang ke pelanggan dengan cepat dan instan,selain itu BaTam lokal juga suka menawarkan banyak diskon menarik,Terimakasih BaTam Lokal”",
+      "class": "active"
+    },
+    {
+      "id": 2,
+      "name": "Mpo Romlah",
+      "firstName": "marvin",
+      "position": "Pengusaha frozen food",
+      "info": "“selain seorang IRT saya juga seorang pengusaha frozenfood dan BaTam lokal sangat memudahkan sekali dengan ada fitur jemput barang ”"
+    },
+    {
+      "id": 3,
+      "name": "Guy Hawkins",
+      "firstName": "guy",
+      "position": "President of Sales",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on Facebook”"
+    },
+    {
+      "id": 4,
+      "name": "Kathryn Murphy",
+      "firstName": "kathryn",
+      "position": "Marketing Coordinator",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on Facebook”"
+    }
+  ]
+}
