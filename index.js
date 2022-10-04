@@ -123,8 +123,8 @@ function calculatePrice(items) {
     if (reguler < 15000) {
       reguler = 15000
     }
-    if (instan < 25000) {
-      instan = 25000
+    if (instan < 20000) {
+      instan = 20000
     }
 
 
@@ -173,40 +173,10 @@ document.getElementById('submit').onclick = function () {
   document.getElementById('instan').innerHTML = instans;
   document.getElementById('reguler').innerHTML = regulers;
 
-  console.log(data)
   return data
 
 
 }
 
 
-
-
-//  tujuan.document.querySelector('#tujuan').value;
-// console.log(tujuan)
-
-//  berat.document.getElementById('berat').value;
-// console.log(berat)
-
-//  tinggi.document.getElementById('tinggi').value;
-// console.log(tinggi)
-
-//  lebar .document.getElementById('lebar').value;
-// console.log(lebar)
-
-
-
-
-
-//  tujuan.document.querySelector('#tujuan').value;
-// console.log(tujuan)
-
-//  berat.document.getElementById('berat').value;
-// console.log(berat)
-
-//  tinggi.document.getElementById('tinggi').value;
-// console.log(tinggi)
-
-//  lebar .document.getElementById('lebar').value;
-// console.log(lebar)
 
